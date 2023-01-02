@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65282636-671c-44e8-b3a9-7cc0bc87f586" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/implementation/게임개발.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/implementation/시각.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/implementation/왕실의 나이트.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,11 +34,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/yongin/CodingTest/implementation"
+    "last_opened_file_path": "/Users/yongin/CodingTest/greedy"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/greedy" />
       <recent name="$PROJECT_DIR$/implementation" />
     </key>
   </component>
