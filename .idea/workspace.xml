@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65282636-671c-44e8-b3a9-7cc0bc87f586" name="Changes" comment="" />
+    <list default="true" id="65282636-671c-44e8-b3a9-7cc0bc87f586" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/sorting/계수정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/삽입정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/선택정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/퀵정렬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
