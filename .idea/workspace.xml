@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65282636-671c-44e8-b3a9-7cc0bc87f586" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sorting/계수정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/삽입정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/선택정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/퀵정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/두 배열의 원소 교체.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/성적이 낮은 순서로 학생 출력하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/위에서 아래로.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
