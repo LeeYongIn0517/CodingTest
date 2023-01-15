@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65282636-671c-44e8-b3a9-7cc0bc87f586" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dynamic programming/1로 만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic programming/개미 전사.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic programming/피보나치 수열코드(반복문).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic programming/피보나치 수열코드(재귀+메모이제이션).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary search/떡볶이 떡 만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary search/떡볶이 떡 만들기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +48,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/greedy" />
       <recent name="$PROJECT_DIR$/implementation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dynamic programming" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
