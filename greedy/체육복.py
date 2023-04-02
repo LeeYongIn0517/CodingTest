@@ -32,4 +32,4 @@ def solution(n, lost, reserve):
     else:
       heapq.heappush(able_to_rent, rent_item)
 
-  return answer
+  return answer스
