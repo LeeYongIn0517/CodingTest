@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65282636-671c-44e8-b3a9-7cc0bc87f586" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/게임 맵 최단거리.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/타겟 넘버.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs:bfs/DFS와 BFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs:bfs/로봇 청소기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs:bfs/미로탐색.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs:bfs/숨바꼭질.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs:bfs/토마토.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/greedy/체육복.py" beforeDir="false" afterPath="$PROJECT_DIR$/greedy/체육복.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfs:bfs/게임 맵 최단거리.py" beforeDir="false" afterPath="$PROJECT_DIR$/dfs:bfs/게임 맵 최단거리.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
