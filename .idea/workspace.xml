@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65282636-671c-44e8-b3a9-7cc0bc87f586" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/DFS와 BFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/로봇 청소기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/미로탐색.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/숨바꼭질.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/토마토.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/등수매기기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/수리공 항승.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/우체국.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/카드 정렬하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/흙길 보수하기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dfs:bfs/게임 맵 최단거리.py" beforeDir="false" afterPath="$PROJECT_DIR$/dfs:bfs/게임 맵 최단거리.py" afterDir="false" />
     </list>
@@ -52,6 +52,7 @@
       <recent name="$PROJECT_DIR$/implementation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/greedy" />
       <recent name="$PROJECT_DIR$/dynamic programming" />
     </key>
   </component>
@@ -65,5 +66,22 @@
       <updated>1672153014664</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -1,6 +1,5 @@
+#프로그래머스 문제, 오류 고쳐서 통과하기!
 from collections import deque
-
-
 def solution(maps):
   answer = 0
   q = deque()
