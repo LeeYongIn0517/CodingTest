@@ -5,23 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65282636-671c-44e8-b3a9-7cc0bc87f586" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/binary search/꽃길.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binary search/랜선 자르기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binary search/좌표압축.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/백트래킹.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic programming/계단오르기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/1911번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/implementation/NBA농구.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/implementation/랭킹전 대기열.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/implementation/빗물.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/implementation/스위치 켜고 끄기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/implementation/한 줄로 서기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/숫자카드2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string/AC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string/LCS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bruteforce/연산자 끼워넣기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data structure/쇠막대기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data structure/에디터.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs:bfs/N과 M.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs:bfs/부분수열의 합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs:bfs/트리의 부모 찾기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs:bfs/트리의 지름.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/치킨 TOP N.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dfs:bfs/로봇 청소기.py" beforeDir="false" afterPath="$PROJECT_DIR$/dfs:bfs/로봇 청소기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/greedy/흙길 보수하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/greedy/흙길 보수하기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
