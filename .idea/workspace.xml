@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65282636-671c-44e8-b3a9-7cc0bc87f586" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bruteforce/연산자 끼워넣기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data structure/쇠막대기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data structure/에디터.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/N과 M.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/부분수열의 합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/트리의 부모 찾기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/트리의 지름.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/치킨 TOP N.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/naverBoost1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/naverBoost2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/듣보잡.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/일곱난쟁이.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/스타트와 링크.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/implementation/과제 진행하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/implementation/테트로미노.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bruteforce/연산자 끼워넣기.py" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking/연산자 끼워넣기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfs:bfs/백트래킹.py" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking/백트래킹.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfs:bfs/부분수열의 합.py" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking/부분수열의 합.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +56,7 @@
       <recent name="$PROJECT_DIR$/implementation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backtracking" />
       <recent name="$PROJECT_DIR$/greedy" />
       <recent name="$PROJECT_DIR$/dynamic programming" />
     </key>
