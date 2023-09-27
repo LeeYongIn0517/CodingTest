@@ -5,17 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65282636-671c-44e8-b3a9-7cc0bc87f586" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/array/naverBoost1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/naverBoost2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/듣보잡.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/일곱난쟁이.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtracking/스타트와 링크.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/implementation/과제 진행하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/implementation/테트로미노.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/N과M(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/월드컵.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs:bfs/단지번호붙이기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs:bfs/바이러스.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs:bfs/스타트링크.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs:bfs/촌수계산.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation/CPU.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation/LCD Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation/iSharp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation/시그널.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation/월드컵.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bruteforce/연산자 끼워넣기.py" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking/연산자 끼워넣기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dfs:bfs/백트래킹.py" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking/백트래킹.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dfs:bfs/부분수열의 합.py" beforeDir="false" afterPath="$PROJECT_DIR$/backtracking/부분수열의 합.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfs:bfs/로봇 청소기.py" beforeDir="false" afterPath="$PROJECT_DIR$/dfs:bfs/로봇 청소기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
