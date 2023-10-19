@@ -5,19 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65282636-671c-44e8-b3a9-7cc0bc87f586" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backtracking/N과M(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtracking/월드컵.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/단지번호붙이기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/바이러스.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/스타트링크.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/촌수계산.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulation/CPU.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulation/LCD Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulation/iSharp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulation/시그널.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulation/월드컵.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/N과M(3).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/N과M(9).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/계란으로 계란치기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/암호 만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs:bfs/Puyo Puyo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs:bfs/음식물 피하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic programming/1,2,3 더하기 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic programming/1학년.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic programming/BOJ거리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic programming/기타리스트.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic programming/점프.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic programming/크리보드.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic programming/퇴사2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic programming/평범한 배낭.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation/거북이.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation/트럭.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dfs:bfs/로봇 청소기.py" beforeDir="false" afterPath="$PROJECT_DIR$/dfs:bfs/로봇 청소기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
