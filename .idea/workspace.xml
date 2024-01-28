@@ -5,23 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65282636-671c-44e8-b3a9-7cc0bc87f586" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backtracking/N과M(3).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtracking/N과M(9).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtracking/계란으로 계란치기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtracking/암호 만들기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/Puyo Puyo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/음식물 피하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic programming/1,2,3 더하기 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic programming/1학년.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic programming/BOJ거리.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic programming/기타리스트.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic programming/점프.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic programming/크리보드.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic programming/퇴사2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic programming/평범한 배낭.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulation/거북이.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulation/트럭.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bit masking/달이 차오른다,가자..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bit masking/데스스타.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bit masking/막대기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs:bfs/A-&gt;B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs:bfs/숨바꼭질2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs:bfs/숨바꼭질3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs:bfs/숨바꼭질4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs:bfs/이모티콘.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation/미네랄.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfs:bfs/Puyo Puyo.py" beforeDir="false" afterPath="$PROJECT_DIR$/dfs:bfs/Puyo Puyo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfs:bfs/스타트링크.py" beforeDir="false" afterPath="$PROJECT_DIR$/dfs:bfs/스타트링크.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +57,11 @@
       <recent name="$PROJECT_DIR$/implementation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bit masking" />
+      <recent name="$PROJECT_DIR$/dfs:bfs" />
+      <recent name="$PROJECT_DIR$/dynamic programming" />
       <recent name="$PROJECT_DIR$/backtracking" />
       <recent name="$PROJECT_DIR$/greedy" />
-      <recent name="$PROJECT_DIR$/dynamic programming" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

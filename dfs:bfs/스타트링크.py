@@ -1,4 +1,4 @@
-#5041번
+#5014번
 from collections import deque
 f,s,g,u,d = map(int, input().split())
 graph = [[] for _ in range(f+1)]
