@@ -5,18 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65282636-671c-44e8-b3a9-7cc0bc87f586" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bit masking/달이 차오른다,가자..py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bit masking/데스스타.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bit masking/막대기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/A-&gt;B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/숨바꼭질2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/숨바꼭질3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/숨바꼭질4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/이모티콘.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulation/미네랄.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary search/가장 긴 증가하는 부분 수열2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary search/가장 긴 증가하는 부분 수열3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary search/가장 긴 증가하는 부분 수열4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bit masking/2의 보수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bit masking/중복 제거.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bit masking/집합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic programming/가장 긴 감소하는 부분 수열.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic programming/가장 긴 바이토닉 부분 수열.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic programming/가장 큰 증가하는 부분 수열.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/Fly me to the Alpha Centauri.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dfs:bfs/Puyo Puyo.py" beforeDir="false" afterPath="$PROJECT_DIR$/dfs:bfs/Puyo Puyo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dfs:bfs/스타트링크.py" beforeDir="false" afterPath="$PROJECT_DIR$/dfs:bfs/스타트링크.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/naverBoost1.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/naverBoost1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/치킨 TOP N.py" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/치킨 TOP N.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,11 +58,11 @@
       <recent name="$PROJECT_DIR$/implementation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/binary search" />
+      <recent name="$PROJECT_DIR$/math" />
       <recent name="$PROJECT_DIR$/bit masking" />
       <recent name="$PROJECT_DIR$/dfs:bfs" />
       <recent name="$PROJECT_DIR$/dynamic programming" />
-      <recent name="$PROJECT_DIR$/backtracking" />
-      <recent name="$PROJECT_DIR$/greedy" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
