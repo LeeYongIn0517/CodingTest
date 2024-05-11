@@ -1,4 +1,4 @@
-#12015번
+#12738번
 n = int(input())
 A = list(map(int, input().split()))
 
