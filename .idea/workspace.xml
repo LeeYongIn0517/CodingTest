@@ -5,30 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65282636-671c-44e8-b3a9-7cc0bc87f586" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data structure/최대 힙.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/구슬 탈출.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/유기농 배추.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs:bfs/토마토_7576번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/ATM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/강의실 배정.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/대회 or 인턴.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/동전.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/로프.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/병든 나이트.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/신입사원.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/잃어버린 괄호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/회의실 배정.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/누적합/구간 합 구하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/누적합/구간 합 구하기4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/누적합/나머지 합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/누적합/누적합 기본.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/누적합/수열.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/누적합/약수의 합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/누적합/합 구하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/롤러코스터.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/멀티탭 스케줄링.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/수 묶기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/implementation/비슷한 단어.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/비슷한 단어.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary search/가장 긴 증가하는 부분 수열3.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary search/가장 긴 증가하는 부분 수열3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary search/가장 긴 증가하는 부분 수열5-다른 방식.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary search/가장 긴 증가하는 부분 수열5-다른 방식.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data structure/최대 힙.py" beforeDir="false" afterPath="$PROJECT_DIR$/data structure/최대 힙.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
