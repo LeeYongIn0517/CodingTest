@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65282636-671c-44e8-b3a9-7cc0bc87f586" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/greedy/롤러코스터.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/멀티탭 스케줄링.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/수 묶기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/implementation/비슷한 단어.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/비슷한 단어.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data structure/최대 힙.py" beforeDir="false" afterPath="$PROJECT_DIR$/data structure/최대 힙.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
