@@ -5,6 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65282636-671c-44e8-b3a9-7cc0bc87f586" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dynamic programming/Longest Substring Without Repeating Characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation/백조의 호수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation/백조의 호수_다른풀이.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/Zigzag Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twoPointer/Continuous Subarrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twoPointer/개념.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/union find/바이러스.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/union find/여행 가자.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/union find/집합의 표현.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/union find/친구 네트워크.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
