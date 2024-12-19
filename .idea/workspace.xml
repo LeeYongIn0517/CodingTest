@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65282636-671c-44e8-b3a9-7cc0bc87f586" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kakao_problems/메뉴 리뉴얼.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kakao_problems/수식최대화.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/implementation/석유 시추.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_problems/문자열 압축.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
