@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65282636-671c-44e8-b3a9-7cc0bc87f586" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/implementation/석유 시추.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kakao_problems/문자열 압축.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data structure/queuestack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic programming/연속합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic programming/연속합2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/implementation/행렬테두리회전.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,11 +50,11 @@
       <recent name="$PROJECT_DIR$/implementation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/binary search" />
       <recent name="$PROJECT_DIR$/dynamic programming" />
+      <recent name="$PROJECT_DIR$/implementation" />
+      <recent name="$PROJECT_DIR$/binary search" />
       <recent name="$PROJECT_DIR$/math" />
       <recent name="$PROJECT_DIR$/bit masking" />
-      <recent name="$PROJECT_DIR$/dfs:bfs" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
